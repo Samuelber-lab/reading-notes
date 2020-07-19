@@ -1,3 +1,3 @@
 # Table of contents
-[Introduction to coding](clclass-01.md)
-[Code demo-1](index.html)
+1. [Introduction to coding](clclass-01.md)
+1. [Code demo-1](index.html)
