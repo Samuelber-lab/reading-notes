@@ -1,2 +1,2 @@
 # Table of contents
-1. [Introduction to coding](clclass-01.md)
+1. [Introduction to coding](class-01.md)
